@@ -1,1 +1,2 @@
 # Case_Plates
+Here are the case files for all of our cases. They will be denoted as the 3dp or acrylic plate versions under each case name. All plates are 14x14 holes unless denoted. Our cases are designed around 1.6mm thick plates.
