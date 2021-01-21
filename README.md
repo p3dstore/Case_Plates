@@ -1,2 +1,2 @@
 # Case_Plates
-Here are the case files for all of our cases. They will be denoted as the 3dp or acrylic plate versions under each case name. All plates are 14x14 holes unless denoted. Our cases are designed around 1.6mm thick plates.
+Here are the case files for all of our cases. They will be denoted as the 3dp or acrylic plate versions under each case name. All plates are 14x14 holes unless denoted. Our cases are designed around 1.6mm thick plates. Please use these files as a basis for ordering your own materials. These files are designed with acrylic in mind, so they may not work for other materials with different kerf. Use these files at your own risk.
